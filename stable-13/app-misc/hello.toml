@@ -9,3 +9,4 @@ system = "autotools"
 depends = ""
 configure_args = ""
 post_install = ""
+verbose = false

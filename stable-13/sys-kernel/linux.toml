@@ -25,3 +25,4 @@ install_command = [
 	"cp .config $DESTDIR/var/lib/rad/packages/config/linux"
 ]
 depends = "rsync"
+verbose = true
